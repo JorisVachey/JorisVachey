@@ -12,24 +12,26 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-### 🐱 A little more about me...
+    <td width="65%" valign="top">
+
+### About me...
 
 ```javascript
 const joris = {
   name: "Joris Vachey",
-  pronouns: ["il", "lui"],
+  pronouns: ["he", "him"],
   education: {
-    degree: "BUT Informatique (3e année)",
+    degree: "Bachelor of Technology in Computer Science (3rd year)",
     university: "IUT d'Orléans",
-    speciality: "Réalisation d'Applications (Conception, Dev, Test)"
+    specialization: "Software Development (Design, Dev, Testing)"
   },
   work: {
-    role: "Apprenti Développeur d'Applications",
+    role: "Apprentice Software Engineer",
+    company: "DGA Techniques terrestres"
   },
-  leadership: "Ex-Président du Bureau des Étudiants (BDE IUT d'Orléans)",
+  associativeLife: "Former President of Student Union (Infasso, IUT d'Orléans)",
   certifications: ["Cambridge English (C1)"],
-  interests: ["photographie", "sport automobile", "horlogerie", "nouvelles technologies"]
+  interests: ["photography", "watchmaking", "tech", "basketball"]
 };
 ```
   </td>
