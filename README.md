@@ -2,7 +2,7 @@
 ### Activité
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Graphe 3D Lego des contributions" width="90%">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Graphe 3D Night Rainbow" width="90%">
 </div>
 <!--
 **JorisVachey/JorisVachey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
